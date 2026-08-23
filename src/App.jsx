@@ -23,13 +23,12 @@ const projects = [
     featured: true,
     visual: "regression",
   },
-  {
+    {
     title: "Data Mining: Rules, Classification & Clustering",
-    year: "Academic Project",
+    year: "2026",
     tag: "Data Mining",
     stack: ["Python", "Pandas", "Scikit-learn", "Mlxtend"],
     desc: "A three-part study applying core data mining techniques across three datasets: Apriori-based market basket analysis on the Groceries dataset, Decision Tree and Naive Bayes classifiers predicting Titanic survival, and K-Means clustering on the Penguins dataset — comparing performance across all three approaches.",
-    detail: "With Abdallah El-Hakawati · Supervised by Bashar Al-Shoha",
     featured: true,
     visual: "techniques",
   },
